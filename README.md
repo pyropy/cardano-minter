@@ -79,7 +79,7 @@ npm install cardanocli-js --save
 
 3. Copy the Cardano node genesis latest build number from IOHK hydra website
 
-   - https://hydra.iohk.io/build/5367762/download/1/index.html
+   - https://hydra.iohk.io/job/Cardano/iohk-nix/cardano-deployment/latest-finished/download/1/index.html
 
 4. Download Genesis config file needed for shelly-era
 
